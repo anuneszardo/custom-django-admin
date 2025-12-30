@@ -28,6 +28,10 @@ This project explores how to:
 
 This mirrors real-world internal tools where **admin panels evolve into full operational systems**.
 
+Example using chart.js
+<img width="2249" height="1269" alt="image" src="https://github.com/user-attachments/assets/3353e9e6-190e-42d4-a100-84861b80ff41" />
+
+
 ---
 
 ## 🛠 Tech Stack
